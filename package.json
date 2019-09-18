@@ -1,0 +1,21 @@
+{
+    "name": "warm-spring",
+    "displayName": "warm-spring",
+    "description": "a warm-toned theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.38.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "warm-spring",
+                "uiTheme": "vs-dark",
+                "path": "./themes/warm-spring-color-theme.json"
+            }
+        ]
+    }
+}
