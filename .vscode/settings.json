@@ -9,12 +9,12 @@
         "sideBar.background": "#202024",
         "sideBar.border": "#353434",
         "sideBarSectionHeader.border": "#3a3a3a",
-        "sideBarSectionHeader.background": "#404040",
+        "sideBarSectionHeader.background": "#423842",
         "sideBarSectionHeader.foreground": "#f7f6e7",
-        
         "activityBar.foreground": "#ffffff",
-        "activityBar.inactiveForeground": "#fafafa79",
-        
+        "activityBar.inactiveForeground": "#fafafa80",
+        "list.activeSelectionBackground": "#a6a6a8",
+        "list.inactiveSelectionBackground": "#656565"
     },
     "workbench.iconTheme": "material-icon-theme"
 }
