@@ -4,17 +4,16 @@
         "editor.foreground": "#f7f6e7",
         "activityBar.background": "#4d383d",
         "statusBar.background": "#88405b",
-        "statusBarItem.remoteBackground": "#88405b",
+        "statusBarItem.remoteBackground": "#54774f",
         "activityBarBadge.background": "#ce788a",
         "sideBar.background": "#202024",
         "sideBar.border": "#353434",
-        "sideBarSectionHeader.border": "#3a3a3a",
-        "sideBarSectionHeader.background": "#423842",
-        "sideBarSectionHeader.foreground": "#f7f6e7",
+        "sideBarSectionHeader.background": "#4e444e",
         "activityBar.foreground": "#ffffff",
         "activityBar.inactiveForeground": "#fafafa80",
-        "list.activeSelectionBackground": "#a6a6a8",
-        "list.inactiveSelectionBackground": "#656565"
+        "list.activeSelectionBackground": "#88405b",
+        "list.inactiveSelectionBackground": "#312c2e",
+        "statusBar.debuggingBackground": "#5d775d",
     },
     "workbench.iconTheme": "material-icon-theme"
 }
