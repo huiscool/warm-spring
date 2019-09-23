@@ -2,10 +2,22 @@
 	"name": "warm-spring",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"editor.background": "#1a1a1d",
+        "editor.foreground": "#f7f6e7",
+        "activityBar.background": "#4d383d",
+        "statusBar.background": "#774f63",
+        "statusBarItem.remoteBackground": "#4f774f",
+        "activityBarBadge.background": "#ce788a",
+        "sideBar.background": "#202024",
+        "sideBar.border": "#353434",
+        "sideBarSectionHeader.background": "#4e444e",
+        "activityBar.foreground": "#ffffff",
+        "activityBar.inactiveForeground": "#fafafa80",
+        "list.activeSelectionBackground": "#88405b",
+        "list.inactiveSelectionBackground": "#312c2e",
+        "statusBar.debuggingBackground": "#4f774f",
+		"statusBar.noFolderBackground": "#4f5d77",
+		"button.background":"#88405b",
 	},
 	"tokenColors": [
 		{
