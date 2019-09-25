@@ -3,6 +3,7 @@
     "displayName": "warm-spring",
     "description": "a warm-toned theme",
     "version": "0.0.1",
+    "publisher": "huyc0769",
     "engines": {
         "vscode": "^1.38.0"
     },
