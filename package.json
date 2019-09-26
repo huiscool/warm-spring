@@ -4,6 +4,10 @@
     "description": "a warm-toned theme",
     "version": "0.0.1",
     "publisher": "huyc0769",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/huyc0769/warm-spring.git"
+    },
     "engines": {
         "vscode": "^1.38.0"
     },
